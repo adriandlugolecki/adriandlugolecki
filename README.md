@@ -36,6 +36,7 @@
 </a>
 </p>
 <h2>You can find me on </h2>
+<a href="https://www.linkedin.com/in/adrian-d%C5%82ugo%C5%82%C4%99cki-0021272b3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--
 **adriandlugolecki/adriandlugolecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
